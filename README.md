@@ -12,6 +12,7 @@ Technology*.
 :hash: Machine/Deep Learning Methods for Cyber-Security, 
 
 :hash: Distributed machine learning
+
 :hash: Homomorphic encryption based Privacy-preserving machine learning. 
 
 :arrow_forward: My personal website: [https://www.ozgurcatak.org](https://www.ozgurcatak.org)
